@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'dice_roller.dart';
 
 // import 'text_container.dart';
-class GradieantContainer extends StatelessWidget {
+class GradieantContainer extends StatelessWidget 
+{
   const GradieantContainer({super.key});
   
   @override

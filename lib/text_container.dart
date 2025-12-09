@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-class TextContainer extends StatelessWidget {
+class TextContainer extends StatelessWidget 
+{
   const TextContainer(this.textName, {super.key});
   final String textName;
 
